@@ -4,10 +4,10 @@ Laravel Version : 10.x
 
 
 1. firstly, you have to clone this project from my github. or I can send the zip file of this project and sql file 
-2. And install composer 
+2. And composer install
 3. And npm install 
 4. And I have already attached sql file name blog.sql inside this root file of this project first you just need to import this sql file in your database.
-5. after that you have run php artisan serve(to start server) and npm run dev(for compilation of css and js).
+5. after that you have to run php artisan serve(to start server) and npm run dev(for compilation of css and js).
 6. If you have imported my blog.sql file then you have login with these credentials.
 
    6.1 >>   email - abhishekc9780@gmail.com
